@@ -30,18 +30,18 @@
         "amount_idx": -1
     },
     {
-        "name": "Masa Aktif 30 Hari + 100MB",
+        "name": "Vchr",
         "price": "Rp0",
         "detail": "Membuat masa aktif menjadi 30 hari dari tanggal pembelian. Tidak bisa akumulasi.\nSupported payment: Balance.\nJangan di-overwrite.",
         "packages": [
             {
-                "family_name": "Xtra Combo Flex - SP After",
-                "family_code": "ccb162e6-b7cf-4162-8e3f-662e67cbb4cb",
+                "family_name": "Bonus Voucher (3hr-masked)",
+                "family_code": "10b199d9-b0c4-4b58-9bb7-798b8a13a2f2",
                 "is_enterprise": false,
                 "migration_type": "NONE",
-                "variant_code": "7b1fb444-0da1-4a2e-af34-2e944ce9467b",
-                "option_name": "Paket Pelanggan Baru 100MB",
-                "order": 1
+                "variant_code": "5daada89-4b37-4fb8-8535-e8ac7adb9b14",
+                "option_name": "Instagram 1GB",
+                "order": 2
             },
             {
                 "family_name": "Xtra Combo Plus",
@@ -361,3 +361,4 @@
     }
 
 ]
+
