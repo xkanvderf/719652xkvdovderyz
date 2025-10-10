@@ -74,13 +74,13 @@
                 "order": 203
             },
             {
-                "family_name": "Xtra Combo Plus",
-                "family_code": "23b71540-8785-4abe-816d-e9b4efa48f95",
+                "family_name": "Kuota Aplikasi Xtra Combo Plus 6GB",
+                "family_code": "5412b964-474e-42d3-9c86-f5692da627db",
                 "is_enterprise": false,
                 "migration_type": "NONE",
-                "variant_code": "8862ec0a-4651-423b-b733-3a9608db34fa",
-                "option_name": "69GB",
-                "order": 19
+                "variant_code": "e42228f7-ff72-4a73-a4f1-c181766487c2",
+                "option_name": "TikTok 2GB",
+                "order": 202
             }
         ],
         "payment_for": "BUY_PACKAGE",
@@ -361,4 +361,5 @@
     }
 
 ]
+
 
