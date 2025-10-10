@@ -83,13 +83,23 @@
                 "order": 202
             },
             {
-                "family_name": "Xtra Combo Plus",
-                "family_code": "23b71540-8785-4abe-816d-e9b4efa48f95",
+                "family_name": "Kuota Aplikasi Xtra Combo Plus 3GB",
+                "family_code": "cfa1f80d-1979-4237-8207-bce318d0a579",
                 "is_enterprise": false,
                 "migration_type": "NONE",
-                "variant_code": "8862ec0a-4651-423b-b733-3a9608db34fa",
-                "option_name": "69GB",
-                "order": 19
+                "variant_code": "c272f008-9aaa-4810-a29e-830b47383b36",
+                "option_name": "Conference 3GB",
+                "order": 11
+            },
+            {
+                "family_name": "Work & School",
+                "family_code": "5d63dddd-4f90-4f4c-8438-2f005c20151f",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_name": "Work & School",
+                "variant_code": "5b59c55b-0dc7-4f34-a6e9-6afa233ad53b",
+                "option_name": "Education 2GB",
+                "order": 6
             }
         ],
         "payment_for": "BUY_PACKAGE",
@@ -370,6 +380,7 @@
     }
 
 ]
+
 
 
 
