@@ -71,8 +71,8 @@
                 "migration_type": "NONE",
                 "variant_name": "Xtra Combo Flex",
                 "variant_code": "c1a05696-8360-47ce-a915-34a5a1093929",
-                "option_name": "Paket Spesial Indomaret",
-                "order": 32
+                "option_name": "Paket Spesial Alfamart",
+                "order": 33
             },
             {
                 "family_name": "Work & School",
@@ -86,7 +86,7 @@
             }
         ],
         "payment_for": "BUY_PACKAGE",
-        "ask_overwrite": false,
+        "ask_overwrite": true,
         "overwrite_amount": -1,
         "token_confirmation_idx": 0,
         "amount_idx": -1
@@ -412,6 +412,7 @@
     }
 
 ]
+
 
 
 
