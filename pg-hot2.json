@@ -71,8 +71,8 @@
                 "migration_type": "NONE",
                 "variant_name": "Xtra Combo Flex",
                 "variant_code": "c1a05696-8360-47ce-a915-34a5a1093929",
-                "option_name": "Xtra Combo Flex S+",
-                "order": 49
+                "option_name": "Xtra Combo Flex XS",
+                "order": 35
             },
             {
                 "family_name": "Xtra Combo Plus",
@@ -411,6 +411,7 @@
     }
 
 ]
+
 
 
 
