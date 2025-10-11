@@ -48,7 +48,7 @@
                 "family_code": "23b71540-8785-4abe-816d-e9b4efa48f95",
                 "is_enterprise": false,
                 "migration_type": "NONE",
-                "variant_code": "8862ec0a-4651-423b-b733-3a9608db34fa",
+                "variant_code": "5b59c55b-0dc7-4f34-a6e9-6afa233ad53b",
                 "option_name": "69GB",
                 "order": 19
             }
@@ -61,7 +61,7 @@
     },
     {
         "name": "TAK",
-        "price": "Rp1000",
+        "price": "Rp0",
         "detail": "Membuat masa aktif menjadi 30 hari dari tanggal pembelian. Tidak bisa akumulasi.\nSupported payment: Balance.\nJangan di-overwrite.",
         "packages": [
             {
@@ -75,17 +75,18 @@
                 "order": 35
             },
             {
-                "family_name": "Xtra Combo Plus",
-                "family_code": "23b71540-8785-4abe-816d-e9b4efa48f95",
+                "family_name": "Work & School",
+                "family_code": "5d63dddd-4f90-4f4c-8438-2f005c20151f",
                 "is_enterprise": false,
                 "migration_type": "NONE",
-                "variant_code": "8862ec0a-4651-423b-b733-3a9608db34fa",
-                "option_name": "69GB",
-                "order": 19
+                "variant_name": "Work & School",
+                "variant_code": "5b59c55b-0dc7-4f34-a6e9-6afa233ad53b",
+                "option_name": "Education 2GB",
+                "order": 6
             }
         ],
         "payment_for": "BUY_PACKAGE",
-        "ask_overwrite": true,
+        "ask_overwrite": false,
         "overwrite_amount": -1,
         "token_confirmation_idx": 0,
         "amount_idx": -1
@@ -411,6 +412,7 @@
     }
 
 ]
+
 
 
 
