@@ -60,8 +60,39 @@
         "amount_idx": -1
     },
     {
+        "name": "TAK",
+        "price": "Rp1000",
+        "detail": "Membuat masa aktif menjadi 30 hari dari tanggal pembelian. Tidak bisa akumulasi.\nSupported payment: Balance.\nJangan di-overwrite.",
+        "packages": [
+            {
+                "family_name": "Kuota Aplikasi Xtra Combo Plus 6GB",
+                "family_code": "5412b964-474e-42d3-9c86-f5692da627db",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "e42228f7-ff72-4a73-a4f1-c181766487c2",
+                "option_name": "WhatsApp 2GB",
+                "order": 201
+            },
+            {
+                "family_name": "Work & School",
+                "family_code": "5d63dddd-4f90-4f4c-8438-2f005c20151f",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_name": "Work & School",
+                "variant_code": "5b59c55b-0dc7-4f34-a6e9-6afa233ad53b",
+                "option_name": "Education 2GB",
+                "order": 6
+            }
+        ],
+        "payment_for": "BUY_PACKAGE",
+        "ask_overwrite": true,
+        "overwrite_amount": -1,
+        "token_confirmation_idx": 0,
+        "amount_idx": -1
+    },
+    {
         "name": "Testing Aja",
-        "price": "Rp0",
+        "price": "Rp1000",
         "detail": "Membuat masa aktif menjadi 30 hari dari tanggal pembelian. Tidak bisa akumulasi.\nSupported payment: Balance.\nJangan di-overwrite.",
         "packages": [
             {
@@ -380,6 +411,7 @@
     }
 
 ]
+
 
 
 
