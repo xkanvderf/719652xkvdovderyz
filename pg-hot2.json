@@ -36,12 +36,12 @@
         "packages": [
             {
                 "family_name": "Bonus Voucher (3hr-masked)",
-                "family_code": "10b199d9-b0c4-4b58-9bb7-798b8a13a2f2",
+                "family_code": "96d99f87-8963-40e4-a522-8bea86504fee",
                 "is_enterprise": false,
                 "migration_type": "NONE",
-                "variant_code": "5daada89-4b37-4fb8-8535-e8ac7adb9b14",
-                "option_name": "Instagram 1GB",
-                "order": 2
+                "variant_code": "f6b4666c-152c-4504-8bd8-571ee42edd13",
+                "option_name": "Unlimited Turbo Basic",
+                "order": 85
             },
             {
                 "family_name": "Xtra Combo Plus",
@@ -53,7 +53,7 @@
                 "order": 19
             }
         ],
-        "payment_for": "BUY_PACKAGE",
+        "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": true,
         "overwrite_amount": -1,
         "token_confirmation_idx": 0,
@@ -435,6 +435,7 @@
     }
 
 ]
+
 
 
 
