@@ -44,13 +44,14 @@
                 "order": 85
             },
             {
-                "family_name": "Xtra Combo Plus",
-                "family_code": "23b71540-8785-4abe-816d-e9b4efa48f95",
+                "family_name": "Work & School",
+                "family_code": "5d63dddd-4f90-4f4c-8438-2f005c20151f",
                 "is_enterprise": false,
                 "migration_type": "NONE",
+                "variant_name": "Work & Schoo",
                 "variant_code": "5b59c55b-0dc7-4f34-a6e9-6afa233ad53b",
-                "option_name": "69GB",
-                "order": 19
+                "option_name": "Education 2GB",
+                "order": 6
             }
         ],
         "payment_for": "SHARE_PACKAGE",
@@ -435,6 +436,7 @@
     }
 
 ]
+
 
 
 
